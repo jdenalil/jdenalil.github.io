@@ -1,0 +1,107 @@
+body {
+    background-color: #eee;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+div#content {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+div#title {
+    text-align: center;
+    display: block;
+}
+
+div.personal-statement {
+    float: left;
+    margin: 0px 10px;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+table#personal-statement-table {
+    margin-top: 15px;
+}
+
+img#profile-img {
+    max-height: 200px;
+    height: auto;
+    border-radius: 15px;
+      display: block;
+  margin-left: auto;
+  margin-right: 20px;
+  margin-top: 16px;
+  padding: 5px;
+}
+
+div#links {
+    width: 100%
+}
+div#links a {
+    float: left;
+    text-align: center;
+    width: 16.6%; /* 600 / num_links */
+}
+
+h1 {
+    margin: 10px;
+}
+
+ul {
+/*     list-style-type: none; */
+}
+
+span.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+td.image-td {
+    width: 20%;
+    text-align: center;
+}
+td.description-td {
+    width: 70%
+}
+img.project-img {
+    max-width: 150px;
+    max-height: 100px;
+    height: auto;
+    width: auto;
+    border-radius: 3px;
+}
+table {
+    width: 100%;
+}
+div.container {
+    float: left;
+    width: 100%;
+}
+
+a {
+    color: #47D;
+}
+h2 {
+    color: #E87B0C;
+    margin-left: 5%;
+}
+td#personal-statement-td {
+    width: 70%;
+}
+
+hr {
+    height: 2px;
+    border: none;
+    background: #ccc;
+    border-radius: 8px;
+}
+p#copyright {
+    text-align: center;
+    font-size: 12px;
+}

@@ -1,107 +1,131 @@
+/*
+ * Globals
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #63c8f6;
+}
+
+a:hover {
+  color: #41b990;
+  text-decoration: none;
+}
+
+.hidden {
+  display: none;
+}
+
+/*
+ * Base structure
+ */
+
+html,
 body {
-    background-color: #eee;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+  height: 100%;
+  background: #fff;
+  font-family: 'Roboto Mono', monospace;
+}
+body {
+  color: #333;
+  text-align: left;
 }
 
-div#content {
-    width: 800px;
-    margin: 0 auto;
-    background-color: #fff;
-    border-radius: 5px;
-    padding: 5px;
+/* Extra markup and styles for table-esque vertical and horizontal centering */
+.site-wrapper {
+  display: table;
+  width: 100%;
+  height: 100%; /* For at least Firefox */
+  min-height: 100%;
 }
-
-div#title {
-    text-align: center;
-    display: block;
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
 }
-
-div.personal-statement {
-    float: left;
-    margin: 0px 10px;
-    font-weight: 300;
-    font-size: 15px;
-}
-
-table#personal-statement-table {
-    margin-top: 15px;
-}
-
-img#profile-img {
-    max-height: 200px;
-    height: auto;
-    border-radius: 15px;
-      display: block;
+.cover-container {
   margin-left: auto;
-  margin-right: 20px;
-  margin-top: 16px;
-  padding: 5px;
+  margin-right: auto;
+  margin-bottom: 2em;
 }
 
-div#links {
-    width: 100%
+/* Padding for spacing */
+.inner {
+  padding: 30px;
 }
-div#links a {
-    float: left;
-    text-align: center;
-    width: 33%;
+
+.inner small {
+  color: #D1F6FF;
+}
+
+/*
+ * Cover
+ */
+
+.cover {
+  padding: 0 20px;
+}
+
+/*
+ * Add some style, sven says.
+ */
+
+.img-me {
+  width: auto;
 }
 
 h1 {
-    margin: 10px;
+  color: #2196fe;
 }
 
-ul {
-/*     list-style-type: none; */
+code {
+  font-size: 100%;
+  color: #c35b7d;
 }
 
-span.helper {
-    display: inline-block;
-    height: 100%;
+.links {
+}
+
+
+.links a,
+.links a:focus {
+  color: #41b990;
+}
+
+.links a:hover {
+  color: #63c8f6;
+  text-decoration: none;
+}
+
+
+/*
+ * Affix and center
+ */
+
+@media (min-width: 768px) {
+  /* Start the vertical centering */
+  .site-wrapper-inner {
     vertical-align: middle;
+  }
+  /* Handle the widths */
+  .cover-container {
+    width: 100%; /* Must be percentage or pixels for horizontal alignment */
+  }
 }
 
-td.image-td {
-    width: 20%;
+@media (min-width: 992px) {
+  .cover-container {
+    width: 920px;
+  }
+}
+
+
+@media(max-width: 768px) {
+  h1, p {
     text-align: center;
-}
-td.description-td {
-    width: 70%
-}
-img.project-img {
-    max-width: 150px;
-    max-height: 100px;
-    height: auto;
-    width: auto;
-    border-radius: 3px;
-}
-table {
-    width: 100%;
-}
-div.container {
-    float: left;
-    width: 100%;
-}
-
-a {
-    color: #47D;
-}
-h2 {
-    color: #8D918D;
-    margin-left: 5%;
-}
-td#personal-statement-td {
-    width: 70%;
-}
-
-hr {
-    height: 2px;
-    border: none;
-    background: #ccc;
-    border-radius: 8px;
-}
-p#copyright {
-    text-align: center;
-    font-size: 12px;
+  }
+  .links {
+    margin-top: 2em;
+  }
 }

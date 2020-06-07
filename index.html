@@ -1,56 +1,171 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130683608-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    gtag('config', 'UA-130683608-1');
+  </script>
+  
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Iain Dunning</title>
+  <meta name="description" content="Homepage for Iain Dunning">
+  <meta name="author" content="Iain Dunning">
 
-    <title>Jason Lang</title>
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Bootstrap core CSS -->
-    <link href="./static/bootstrap.min.css" rel="stylesheet">
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600"
+   rel="stylesheet" type="text/css">
 
-    <!-- Custom styles for this template -->
-    <link href="./static/style.css" rel="stylesheet">
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <style>
+  .paperimg {
+    float: right;
+    width: 20%;
+    max-width: 10em;
+    padding-left: 0.5em
+  }
+  .paperdiv {
+    clear: both;
+    padding: 0.5em; display: inline-block; width: 100%
+  }
+  .grey {
+    background-color: #DDDDDD;
+  }
+  </style>
+
 </head>
+<body>
 
-<body style="font-size:0.8rem;">
-    <div class="site-wrapper">
-        <div class="site-wrapper-inner">
-            <div class="cover-container">
-                <div class="inner cover">
-
-                    <div class="row">
-
-                        <div class="col">
-                            <h1 class="cover-heading">Jason Lang</h1>
-                            <p>
-                                Advanced autonomy and reinforcement learning,
-                                https://github.com/jdenalil
-                            </p>
-
-                        </div>
-                        <div class="col-md-4">
-                            <img src="./static/heron.jpg" class="img-me img-fluid" style="margin-bottom:10px">
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<div class="container">
+  <div class="row" style="margin-top: 10%">
+    <div class="six columns">
+      <h1>Jason Lang</h1>
+      <p>
+      Researcher and engineer, with a focus on applying techniques from
+      machine learning and optimization to solve difficult decision problems -
+      plan a logistics network, trade futures, run a power grid, or solve a video game.
+      <br>
+      Currently living in Alexandria, 🇺🇸.
+      <br>
+      <b>Contact</b>: jdenalil 📧 vt.edu
+      </p>
     </div>
+    <div class="six columns">
+      <img src="images/lores.jpg" style="width: 100%">
+    </div>
+  </div>
 
-    <!-- webfonts -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
-    <link href="./static/fontawesome-all.min.css" rel="stylesheet">
+  <div class="row">
+  <div class="twelve column">
+    
+    <!-- About
+      –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <hr>
+    
+    <h3>Recent Work History</h3>
+    
+    <h5>
+      <a href="http://www.hudson-trading.com/about/" target="_blank">
+      <img src="images/hrt.svg" style="height: 1.5em; padding-right: 0.5em"></a>
+      Hudson River Trading
+    </h5>
+    <p>
+      <b>Team Lead &amp; Researcher</b> (August&nbsp;'18 &mdash;)<br>
+      I run "HAIL" - HRT AI Labs. We make deep learning work for systematic trading by
+      integrating and translating techniques from other domains and developing
+      proprietary extensions for our unique needs.
+      <a href="http://www.hudson-trading.com/careers/job/?gh_jid=940856">We're hiring!</a>
+    </p>
 
+    <h5>
+      <a href="https://deepmind.com/" target="_blank">
+      <img src="images/deepmind.png" style="height: 1.5em; padding-right: 0.5em"></a>
+      DeepMind Technologies
+    </h5>
+    <p>
+      <b>Senior Research Engineer</b> (July&nbsp;'16 &mdash; July&nbsp;'18)<br>
+      Applying large-scale artificial intelligence techniques like
+      <a href="https://deepmind.com/blog/deep-reinforcement-learning/" target="_blank">
+      deep reinforcement learning</a> to complex
+      <a href="https://deepmind.com/blog/open-sourcing-deepmind-lab/" target="_blank">
+      environments</a>, using
+      <a href="https://cloud.google.com/tpu/" target="_blank">cutting-edge deep learning hardware</a>.
+      Team lead for five engineers,
+      tech lead for multiagent research engineering.
+    </p>
+    
+    <h5>
+      <a href="https://web.mit.edu/" target="_blank">
+      <img src="images/mit.png" style="height: 1em; padding-right: 0.5em"></a>
+      Massachusetts Institute of Technology
+    </h5>
+    <p>
+      <b>Teaching &amp; Research Assistant</b> (Sep.&nbsp;'11 &mdash; May&nbsp;'16)<br>
+      See research below.
+      Co-created <i>XX</i>,000-person EdX class
+      <a href="https://www.edx.org/course/analytics-edge-mitx-15-071x-3" target="_blank">
+      The Analytics Edge</a>. Taught MBA and executive MBA residential
+      versions of the class at MIT
+      <a href="https://mitsloan.mit.edu" target="_blank">Sloan School of
+      Management</a>.
+    </p>
+    
+    <h5>
+      <img src="images/google.png" style="height: 1em; padding-right: 0.5em">
+      Google
+    </h5>
+    <p>
+      <b>Intern</b> (June&nbsp;13 &mdash; Aug.&nbsp;'13)<br>
+      Worked on search engine crawler. Designed &amp; implemented
+      algorithms to improve the crawl prioritization, analyzed impacts
+      on very large (O(10<sup>10</sup>) rows, O(10<sup>3</sup>) TB)
+      datasets with MapReduce/Flume.</li>
+    </p>
+    
+    <!-- End Work
+      –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <hr>
+    
+    <hr style="clear: both">
+    
+    <h3>Education</h3>
+    
+    <h5>
+      <a href="http://www.des.auckland.ac.nz/en.html" target="_blank">
+      <img src="images/uoa.png" style="height: 1.5em; padding-right: 0.5em"></a>
+      Virginia Tech
+    </h5>
+    <p>
+      <b>B.S., Mechanical Engineering</b> (Mar.&nbsp;'07 &mdash; Dec.&nbsp;'10)<br>
+    </p>
+    
+    <!-- End Education
+      –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <hr>
+    
+    
+    
+  </div>  <!-- twelve colum -->
+  </div>  <!-- row -->
+</div>  <!-- container -->
 
-
-
-
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 </body>
 </html>

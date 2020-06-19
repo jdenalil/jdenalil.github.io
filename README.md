@@ -2,6 +2,8 @@ New Pages coming:
 
 **A Minimal Approach to Personal Finance**
 
+Spending: TODO 
+
 Checking Account: Hold all incoming or outgoing money - keep your monthly rent plus $500 here as a buffer. You'll want a debit card attached to this account for paying bills. I recommend going with one of your credit card providers for simplicity.
 
 Credit Cards: Having a few solid no-fee credit cards can allow you to collect rewards and build credit. All cards should be setup to auto-pay the full balence each month from your checking account.
@@ -12,7 +14,7 @@ Other investments: Any money left over should go here - There's many directions 
 
 **How to Life**
 
- - F units - Jason Lang
+ - F units - Jason Lang - TODO
  - Achieving outlier success - Sam Altman 
  - 4-hour workweek - Tim Ferris 
  - Tools of Titans, Tribe of Mentors - Tim Ferris 

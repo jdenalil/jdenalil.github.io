@@ -1,6 +1,6 @@
 New Pages coming:
 
-**A minimal approach to personal finance**
+**A Minimal Approach to Personal Finance**
 
 Checking Account: Hold all incoming or outgoing money - keep your monthly rent plus $500 here as a buffer. You'll want a debit card attached to this account for paying bills. I recommend going with one of your credit card providers for simplicity.
 

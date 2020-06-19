@@ -12,18 +12,18 @@ Other investments: Any money left over should go here - There's many directions 
 
 **How to Life**
 
-F units
-Achieving outlier success - Sam Altman
-4-hour workweek - Tim Ferris
-Tools of Titans, Tribe of Mentors - Tim Ferris
+F units 
+Achieving outlier success - Sam Altman 
+4-hour workweek - Tim Ferris 
+Tools of Titans, Tribe of Mentors - Tim Ferris 
 
 
 **Towards Artificial General Intelligence**
 
-Companies pushing the boundries of AI:
-OpenAI - 
-Deepmind - 
+Companies pushing the boundries of AI: 
+OpenAI -  
+Deepmind -  
 
-Reinforcement Learning
-Meta Learning
-Genralization
+Reinforcement Learning 
+Meta Learning 
+Genralization 

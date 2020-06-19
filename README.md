@@ -33,7 +33,7 @@ Important and Interesting Areas
  - Generalization
  - Natural Language Processing
  
-my belief is that truly great Population Based Training which includes the ability to create new neural architectures with many parts (much like the brain), combined with a extremely robust, detailed, and social simulation, combined with an extreme amount of compute, will create AGI.
+my belief is that truly great Population Based Training which includes the ability to create new neural architectures with many novel parts (much like the brain), combined with a extremely robust, detailed, and social simulation, combined with an extreme amount of compute, will create AGI.
 - The Simulation will be agents exploring the world in a competitive setting with other skilled agents.
 - The new PBT with need a new method of generating models that works like brain evolution.
 - Extreme compute will be needed to model the environment in high fidelity for real world translation and to simulate the large populations needed for social settings.

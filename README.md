@@ -30,3 +30,5 @@ Important and Interesting Areas
  - Meta Learning 
  - Generalization
  - Natural Language Processing
+ 
+my belief is that truly great Population Based Training which includes the ability to create new neural architectures with many parts (much like the brain), combined with a extremely robust, detailed, and social simulation, combined with an extreme amount of compute, will create AGI.

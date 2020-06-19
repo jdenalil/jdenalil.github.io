@@ -28,5 +28,5 @@ Companies pushing the boundries of AI:
 Important and Interesting Areas
  - Reinforcement Learning 
  - Meta Learning 
- - Genralization
+ - Generalization
  - Natural Language Processing

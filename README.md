@@ -13,8 +13,6 @@ Credit Cards: Having a few solid no-fee credit cards can allow you to collect re
 Other investments: Any money left over should go here - There's many directions you could go with this, but large low cost index funds, rental properties, or investing in your own skills or personal business could be a great option. This account can also be where your emergency fund can be located.
 
 **How to Life**
-
- - F units - Jason Lang - TODO
  - Achieving outlier success - Sam Altman 
  - 4-hour workweek - Tim Ferris 
  - Tools of Titans, Tribe of Mentors - Tim Ferris 
@@ -33,7 +31,7 @@ Important and Interesting Areas
  - Generalization
  - Natural Language Processing
  
-my belief is that truly great Population Based Training which includes the ability to create new neural architectures with many novel parts (much like the brain), combined with a extremely robust, detailed, and social simulation, combined with an extreme amount of compute, will create AGI.
+My belief is that truly great Population Based Training which includes the ability to create new neural architectures, combined with a extremely robust, detailed, and social simulation senario, combined with an extreme amount of compute, will create AGI.
 - The Simulation will be agents exploring the world in a competitive setting with other skilled agents.
-- The new PBT with need a new method of generating models that works like brain evolution.
+- The new PBT with need a new, more exuastive methods of generating novel models.
 - Extreme compute will be needed to model the environment in high fidelity for real world translation and to simulate the large populations needed for social settings.

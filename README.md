@@ -30,3 +30,20 @@ Important and Interesting Areas
  - Meta Learning 
  - Generalization
  - Natural Language Processing
+
+
+**Most important and interesting problems to solve**
+ 
+ Intelligence and conciousness - (Comp Sci, Neuroscience)
+  - What is it and how do we create it?
+ 
+ Nature of our universe - (Physics)
+  - Why is there anything at all?
+  - Theory of everything - Unifying force theory
+  
+ Space travel - (Engineering)
+  - How to make our civilization multiplanetary
+ 
+ Government - (Psychology, Political Science, Economics)
+  - How to properly run a society
+

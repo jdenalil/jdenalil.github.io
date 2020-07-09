@@ -2,8 +2,6 @@ New Pages coming:
 
 **A Minimal Approach to Personal Finance**
 
-Spending: TODO 
-
 Checking Account: Hold all incoming or outgoing money - keep your monthly rent plus $500 here as a buffer. You'll want a debit card attached to this account for paying bills. I recommend going with one of your credit card providers for simplicity.
 
 Credit Cards: Having a few solid no-fee credit cards can allow you to collect rewards and build credit. All cards should be setup to auto-pay the full balence each month from your checking account.
@@ -12,7 +10,7 @@ Credit Cards: Having a few solid no-fee credit cards can allow you to collect re
 
 Other investments: Any money left over should go here - There's many directions you could go with this, but large low cost index funds, rental properties, or investing in your own skills or personal business could be a great option. This account can also be where your emergency fund can be located.
 
-**How to Life**
+**Book Club**
  - Achieving outlier success - Sam Altman 
  - 4-hour workweek - Tim Ferris 
  - Tools of Titans, Tribe of Mentors - Tim Ferris 
@@ -25,25 +23,28 @@ Companies pushing the boundries of AI:
  - Google/Deepmind
  - Tesla
 
-Important and Interesting Areas
+My Research Areas
  - Reinforcement Learning 
  - Meta Learning 
  - Generalization
  - Natural Language Processing
 
 
-**Most important and interesting problems to solve**
+**Ponder Robotics**
+ - Foundational Model-Based Meta Learning Research for Sim2Real
+ - Similar concept to CuriousAI
+
+**Most Interesting Fields in the World Today**
  
- Intelligence and conciousness - (Comp Sci, Neuroscience)
-  - What is it and how do we create it?
+ Computation and Technology - (Engineers, Researchers)
+  - How do we create systems that improve human life?
+     - AI, Consumer Tech, ect.
+  - How do we reduce existential risk to humans?
+     - Space Travel, Medical, Sustainability 
  
- Nature of our universe - (Physics)
-  - Why is there anything at all?
-  - Theory of everything - Unifying force theory
-  
- Space travel - (Engineering)
-  - How to make our civilization multiplanetary
+ Nature of our universe - (Physicists)
+  - How do we answer fundamental questions about the nature of out universe?
  
- Government - (Psychology, Political Science, Economics)
-  - How to properly run a society
+ Government - (Politicians, Economists)
+  - How do we run a efficient society that rewards acheivement but maintains equality?
 

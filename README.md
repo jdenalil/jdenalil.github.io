@@ -1,4 +1,3 @@
-New Pages coming:
 
 **A Minimal Approach to Personal Finance**
 
@@ -10,22 +9,15 @@ Credit Card Accounts: Having a few solid no-fee credit cards can allow you to co
 
 Savings and Investment account: Any money left over should go here - There's many directions you could go with this, but large low cost index funds, rental properties, or investing in your own skills or personal business could be a great option. This account can also be where your emergency fund can be located.
 
-**Book Club**
- - Achieving outlier success - Sam Altman 
- - 4-hour workweek - Tim Ferris 
- - Tools of Titans, Tribe of Mentors - Tim Ferris 
-
-**Most Interesting Fields in the World Today**
+**Fundamental Fields of the Future**
  
- Computation and Technology - (Engineers, Researchers)
+ Technology - (Engineers, Researchers)
   - How do we create systems that improve human life?
-     - AI, Consumer Tech, ect.
   - How do we reduce existential risk to humans?
-     - Space Travel, Medical, Sustainability 
  
  Nature of our universe - (Physicists)
-  - How do we answer fundamental questions about the nature of out universe?
+  - What are the answers to fundamental questions about the nature of our universe?
  
  Government - (Politicians, Economists)
-  - How do we run a efficient society that rewards acheivement but maintains equality?
+  - Run an efficient society that ethically rewards achievement?
 

@@ -15,25 +15,6 @@ Other investments: Any money left over should go here - There's many directions 
  - 4-hour workweek - Tim Ferris 
  - Tools of Titans, Tribe of Mentors - Tim Ferris 
 
-
-**Towards Artificial General Intelligence**
-
-Companies pushing the boundries of AI: 
- - OpenAI 
- - Google/Deepmind
- - Tesla
-
-My Research Areas
- - Reinforcement Learning 
- - Meta Learning 
- - Generalization
- - Natural Language Processing
-
-
-**Ponder Robotics**
- - Foundational Model-Based Meta Learning Research for Sim2Real
- - Similar concept to CuriousAI
-
 **Most Interesting Fields in the World Today**
  
  Computation and Technology - (Engineers, Researchers)

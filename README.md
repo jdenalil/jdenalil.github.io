@@ -15,7 +15,7 @@ Savings and Investment account: Any money left over should go here - There's man
   - How do we create systems that improve human life?
   - How do we reduce existential risk to humans?
  
- Nature of our universe - (Physicists)
+ Nature of our universe - (Physicists, Neuroscience)
   - What are the answers to fundamental questions about the nature of our universe?
  
  Government - (Politicians, Economists)

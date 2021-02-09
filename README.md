@@ -7,6 +7,6 @@
  Science - (Physicists, Scienctists, Theoretical Researchers)
   - What are the answers to fundamental questions about the nature of our universe?
  
- Government - (Politicians, Economists)
+ Leadership and Government - (Politicians, Economists)
   - How do we run an efficient and ethical society?
 
